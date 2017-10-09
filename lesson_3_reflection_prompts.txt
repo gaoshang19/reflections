@@ -7,7 +7,7 @@ sometimes i am warry about losing mey local file.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
  机器不知道什么时候需要去更新吧，可能会可本地自己正在进行的工作冲突
-
+LOL，maybe the computer is stupid，its dont know the time when we should pull changes.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
