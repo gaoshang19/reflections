@@ -19,8 +19,8 @@ stored locally?
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+maybe we have to copy the code by USB from each other
+of course using USB
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
